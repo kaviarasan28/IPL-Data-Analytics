@@ -4,6 +4,8 @@
 
 This project is an interactive IPL Data Analytics Dashboard developed using Power BI. The dashboard analyzes historical Indian Premier League (IPL) data to provide insights into team performance, player statistics, match outcomes, and tournament trends. The objective is to transform raw cricket data into meaningful visual insights for better decision-making and performance evaluation.
 
+<img width="1897" height="852" alt="Screenshot 2025-09-03 100323" src="IPL DASHBOARD.png" />
+
 ## Objectives
 
 * Analyze team and player performance across IPL seasons.
@@ -66,6 +68,6 @@ The dashboard enables users to explore IPL data effectively through interactive 
 * KPI Reporting
 * Dashboard Development
 
-<img width="1897" height="852" alt="Screenshot 2025-09-03 100323" src="IPL DASHBOARD.png" />
+
 
 
