@@ -66,4 +66,7 @@ The dashboard enables users to explore IPL data effectively through interactive 
 * KPI Reporting
 * Dashboard Development
 
+![Player Statistics](<img width="1897" height="852" alt="Screenshot 2025-09-03 100323" src="https://github.com/user-attachments/assets/1c9ea911-9f3d-4ed3-9a2b-060c70c39cd5" />
+)
+
 
